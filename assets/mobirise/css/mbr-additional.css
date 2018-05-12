@@ -5118,7 +5118,7 @@ body {
   text-align: center;
 }
 .cid-qRRgKu5Um3 .mbr-text P {
-  text-align: center;
+  text-align: left;
   color: #36004b;
 }
 .cid-qRQemvomv8 {
@@ -6096,21 +6096,163 @@ body {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/mbr-1723x1080.jpg");
 }
-.cid-qRRgVavHPc {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-qRRn4Epw7V {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
 }
-.cid-qRRgVavHPc .mbr-text,
-.cid-qRRgVavHPc blockquote {
+.cid-qRRn4Epw7V .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qRRgVavHPc .mbr-text {
-  text-align: center;
+.cid-qRRn4Epw7V .container-table {
+  margin: 0 auto;
 }
-.cid-qRRgVavHPc .mbr-text P {
-  text-align: center;
-  color: #36004b;
+.cid-qRRn4Epw7V .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-qRRn4Epw7V .dataTables_wrapper {
+  display: block;
+}
+.cid-qRRn4Epw7V .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-qRRn4Epw7V .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-qRRn4Epw7V table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-qRRn4Epw7V table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-qRRn4Epw7V table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-qRRn4Epw7V table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-qRRn4Epw7V table.table {
+  background: #ffffff;
+}
+.cid-qRRn4Epw7V .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-qRRn4Epw7V .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-qRRn4Epw7V .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-qRRn4Epw7V .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-qRRn4Epw7V .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-qRRn4Epw7V .dataTables_filter {
+    text-align: center;
+  }
+  .cid-qRRn4Epw7V .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-qRRnxqP4Fb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qRRnxqP4Fb .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qRRnxqP4Fb .container-table {
+  margin: 0 auto;
+}
+.cid-qRRnxqP4Fb .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-qRRnxqP4Fb .dataTables_wrapper {
+  display: block;
+}
+.cid-qRRnxqP4Fb .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-qRRnxqP4Fb .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-qRRnxqP4Fb table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-qRRnxqP4Fb table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-qRRnxqP4Fb table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-qRRnxqP4Fb table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-qRRnxqP4Fb table.table {
+  background: #ffffff;
+}
+.cid-qRRnxqP4Fb .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-qRRnxqP4Fb .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-qRRnxqP4Fb .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-qRRnxqP4Fb .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-qRRnxqP4Fb .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-qRRnxqP4Fb .dataTables_filter {
+    text-align: center;
+  }
+  .cid-qRRnxqP4Fb .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
 }
 .cid-qRQf2lbXd8 {
   padding-top: 60px;
@@ -6573,7 +6715,7 @@ body {
   text-align: center;
 }
 .cid-qRRgZQxEKv .mbr-text P {
-  text-align: center;
+  text-align: left;
   color: #36004b;
 }
 .cid-qRQf7RJkDb {
