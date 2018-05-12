@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Polskie Towarzystwo Psychopedagogiczne-clone",
-    "currentPage": "index.html",
+    "currentPage": "uczestnicy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 176,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.5.4",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-2-2-127x114.png",
     "noImageResize": "",
     "cookiesAlert": "",
