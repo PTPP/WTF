@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Fifa World Championschip PTPP - LIPIEC 2018",
-    "currentPage": "regulamin.html",
+    "name": "Polskie Towarzystwo Psychopedagogiczne-clone",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,15 +34,15 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 193,
-    "versionPublish": "4.5.4",
+    "uniqCompNum": 190,
+    "versionPublish": "4.7.2",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-2-2-127x114.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-50260950-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-50260950-3');\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-50260950-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-50260950-3');\r\n</script>\r\n",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteUrl": "http://fwc.psychopedagog.eu",
+    "siteUrl": "http://www.psychopedagog.eu",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
@@ -4378,12 +4378,12 @@
               "text-align": "center"
             },
             ".mbr-text P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#36004b"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Zapisy możliwe w formularzu:</b></p><p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSduQdjhAqbBk_0GLb5I_TJdyAeSwpBMGwFTCgjVVA4lP8jKfQ/viewform\" target=\"_blank\">Formularz zapisu</a>.</p><p><br></p><p><b>Zgoda opiekuna prawnego:</b></p><p><a href=\"https://drive.google.com/file/d/1kUsIfqHu12lfqPIpXBqSL_bempA24LY_/\" target=\"_blank\">Pobierz pdf, wydrukuj i podpisz</a>.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\"><b>Wkrótce</b></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-55",
           "_isUserblock": true,
           "_cid": "qRRgKu5Um3",
@@ -4391,39 +4391,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".line": {
-              "background-color": "@lineColor",
-              "color": "@lineColor",
-              "align": "center",
-              "height": "2px",
-              "margin": "0 auto"
-            },
-            ".section-text": {
-              "padding": "2rem 0"
-            },
-            ".inner-container": {
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".inner-container": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>\n                    Wpłaty wpisowego 20 zł należy dokonwywać na konto lub osobiście w Poradni Psychopedagogicznej (po wcześniejszym ustaleniu godziny spotkania).<br><br><b>Konto na wpłaty</b>: VWBank: 52 2130 0004 2001 0818 4764 0001\n<div><b>Tytułem:</b> Imię i naziwsko uczestnika - FWC PTPP<br><b>Kwota:</b> 20 zł</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
-          "_cid": "qS0yTJ0AfZ",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content9-5a"
         },
         {
           "_styles": {
@@ -6238,21 +6205,23 @@
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
-            ".mbr-text DIV": {
-              "text-align": "center"
-            },
             ".mbr-text": {
               "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left",
+              "color": "#36004b"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>§ 1. Regulacje ogólne \n</b><div>\n</div><div>1.  Organizatorem Turnieju jest Polskie Towarzystwo Psychopedagogiczne \n</div><div>\n</div><div>2. Oficjalną stroną internetową wydarzenia jest fwc.psychopedagog.eu, a znajdujące się tam informacje uważane są za obowiązujące. \n</div><div>\n</div><div>3. Turniej rozgrywany jest w grze Fifa 18 na platformie Playstation 4 Pro udostępnionej przez Organizatora. \n</div><div>\n</div><div>4. Turniej odbywa się w Poradni Psychopedagogicznej Polskiego Towarzystwa Psychopedagogicznego, al. Tysiąclecia 2. W trakcie trwania zawodów przebywać należy na terenie do tego wyznaczonym.\n</div><div>\n</div><div>5. Sędzią głównym turnieju jest Dawid Karol Kołodziej. \n</div><div>\n</div><div>6. Sędziowie pomocniczy są powoływani przez sędzie głównego.\n</div><div>\n</div><div>7. Turniej rozpoczyna się 30 czerwca 2018r. o godzinie 14:00. Wówczas odbędzie się losowanie drużyn. \n</div><div>\n</div><div>8. Organizatorzy mają prawo przeszukać osoby i ich rzeczy w przypadku podejrzeń, że wnoszą na teren obiektu niedozwolone przedmioty i substancje mogące wpłynąć na bezpieczeństwo uczestników i przebieg wydarzenia. \n</div><div>\n</div><div>\n</div><div><b>§ 2. Uczestnicy\n</b></div><div>\n</div><div>1. Uczestnikiem Turnieju może być każda osoba, która wypełni formularz zgłoszeniowy, szczegóły w pkt. 2. oraz dostarczy zgodę rodzica lub opiekuna prawnego (w przypadku osoby niepełnoletniej) na udział w wydarzeniu najpóźniej do dnia turnieju. Wzór zgody rodzica znajduje się w zakładce Zapisy pod linkiem do pobrania.\n</div><div>&nbsp;\n</div><div>2. Zapisy uczestników odbywają się drogą elektroniczną. Zapisu należy dokonać w zakładce Zapisy. Termin zapisów od 14.05.2018r. do 29.06.2018r. \n</div><div>\n</div><div>3. Udział w wydarzeniu może brać maksymalnie 32 uczestników. W przypadku mniejszego zainteresowania brakująca liczba uczestników zostanie uzupełniona wirtualnymi graczami na poziomie trudności klasa światowa. W przypadku większego zainteresowania obowiązuje kolejność zgłoszeń.\n</div><div>\n</div><div>4. Obowiązuje 20 zł wpisowego od każdego uczestnika na poczet organizacji przedsięwzięcia.\n</div><div>\n</div><div>\n</div><div><b>§ 3. Rozgrywka\n</b></div><div>\n</div><div>1. Rozgrywki w grach komputerowych odbywają się na platformach przygotowanych i skonfigurowanych przez organizatora.\n</div><div>\n</div><div>2. Jest dozwolone podłączenie własnych urządzeń wskazujących (pad), oraz słuchawek, ale tylko za wiedzą, zgodą oraz przy pomocy sędziego.\n</div><div>\n</div><div>3. Zabronione jest opuszczenie stanowiska przez gracza bez uzasadnionego powodu.\n</div><div>\n</div><div>4. Podczas trwania turnieju obowiązuje kultura osobista. Sędzia ma prawo w każdej chwili na dyskfalifikację zawodnika jeśli uzna jego zachowanie za niestosowne.\n</div><div>\n</div><div>5. Za zgodą sędziego w pomieszczeniu turniejowym mogą przebywać osoby postronne, tzw. widzowie.\n</div><div>\n</div><div>6. Przystąpienie do turnieju jest równoznaczne z wyrażeniem zgody przez uczestnika na niniejszy regulamin oraz zasady rozrywek. \n</div><div>\n</div><div>\n</div><div><b>§ 4. Regulamin rozgrywek Fifa 18 World Championship\n</b></div><div>\n</div><div>1. Rozgrywki toczą się w systemie grupowym, a następnie pucharowym.\n</div><div>2. W fazie grupowej, każdy gracz rozgrywa mecz z każdym ze swojej grupy. Za wygrany mecz gracz otrzymjuej 3 punkty, za remis 1 punkt, za przegraną 0 punktów. W przypadku takiej samej ilości punktów obowiązuje bilans bramkowy (zyskane/stracone bramki).\n</div><div>\n</div><div>3. W fazie pucharowej rozgrywane jest jedno spotkanie. Przegrana drużyna zostaje wyeliminowana, wygrana przechodzi dalej. W przypadku remisu, zostaje rozegrana dogrywka. Jeśli również to nie wyłoni zwycięzcy, obowiązuje konkurs rzutów karnych.\n</div><div>\n</div><div>4. Wynik meczu jest zapisywany przez sędziego.\n</div><div>\n</div><div>5. Na stronie internetowej wydarzenia będą prowadzone statystyki najlepszych strzelców oraz najlepszych obrońców.\n</div><div>\n</div><div>6. Drużyna, która nie stawi się w określonych ramach czasowych przez organizatorów, poddaje walkower. Walkower można zgłaszać w razie braku kontaktu z przeciwnikiem (do 10 minut po ustalonej godzinie meczu).\n</div><div>\n</div><div>\n</div><div><b>§ 5. Regulacje końcowe\n</b></div><div><b>\n</b></div><div>1. Wszelkie kwestie nieujęte w niniejszym Regulaminie rozstrzyga organizator.\n</div><div>\n</div><div>2. Uczestnicy zobowiązani są do przestrzegania postanowień Regulaminu oraz poleceń organizatora. \n</div><div>\n</div><div>3. Uczestnicy są zobowiązani są do zachowywania zgodnego z zasadami Fair Play. Za niedopuszczalne uznaje się nieprzyzwoite gesty, akty agresji oraz wandalizmu. Kategorycznie zabrania się palenia, spożywania napojów alkoholowych oraz innych substancji psychoaktywnych na terenie poradni.\n</div><div>\n</div><div>4. Organizator zastrzega sobie prawo do zdyskwalifikowania uczestników postępujących niezgodnie z powyższymi zasadami.\n</div><div>&nbsp;\n</div><div>5. Organizator może wprowadzić zmiany do niniejszego Regulaminu także w trakcie Turnieju.\n</div><div>&nbsp;\n</div><div>6. Regulamin obowiązuje od dnia ogłoszenia, tj. od dnia 13.05.2018r.</div></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qS0AbrSRoJ",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 1.5rem;\"><b>§ 1. Regulacje ogólne&nbsp;</b></span></div><div><span style=\"font-size: 1.5rem;\"><b><br></b></span></div><div>\n</div><div>1.\n<span style=\"font-size: 1.5rem;\">&nbsp;</span><span style=\"font-size: 1.5rem;\">Organizatorem Turnieju jest Polskie Towarzystwo Psychopedagogiczne&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span><span style=\"font-size: 1.5rem;\"></span></div><div>2.&nbsp;<span style=\"font-size: 1.5rem;\">Oficjalną stroną internetową wydarzenia jest <i><a href=\"index.html\">fwc.psychopedagog.eu</a></i>, a znajdujące się tam informacje uważane są za obowiązujące.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>3.&nbsp;<span style=\"font-size: 1.5rem;\">Turniej rozgrywany jest w grze <i>Fifa 18</i> na platformie Playstation 4 Pro udostępnionej przez Organizatora.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>4.&nbsp;<span style=\"font-size: 1.5rem;\">Turniej odbywa się w Poradni Psychopedagogicznej Polskiego Towarzystwa Psychopedagogicznego, al. Tysiąclecia 2. W trakcie trwania zawodów przebywać należy na terenie do tego wyznaczonym.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>5.&nbsp;<span style=\"font-size: 1.5rem;\">Sędzią głównym turnieju jest Dawid Karol Kołodziej.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>6.&nbsp;<span style=\"font-size: 1.5rem;\">Sędziowie pomocniczy są powoływani przez sędzie głównego.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>7.&nbsp;<span style=\"font-size: 1.5rem;\">Turniej rozpoczyna się 30 czerwca 2018r. o godzinie 14:00. Wówczas odbędzie się losowanie drużyn.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>8.&nbsp;<span style=\"font-size: 1.5rem;\">Organizatorzy mają prawo przeszukać osoby i ich rzeczy w przypadku podejrzeń, że wnoszą na teren obiektu niedozwolone przedmioty i substancje mogące wpłynąć na bezpieczeństwo uczestników i przebieg wydarzenia.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div><b>§ 2. Uczestnicy</b></div><div><b><br></b></div><div><b>\n</b></div><div>\n</div><div>1.&nbsp;<span style=\"font-size: 1.5rem;\">Uczestnikiem Turnieju może być każda osoba, która wypełni formularz zgłoszeniowy, szczegóły w pkt. 2. oraz dostarczy zgodę rodzica lub opiekuna prawnego (w przypadku osoby niepełnoletniej) na udział w wydarzeniu najpóźniej do dnia turnieju. Wzór zgody rodzica znajduje się w zakładce <i>Zapisy</i> pod linkiem do pobrania.</span></div><div><span style=\"font-size: 1.5rem;\">&nbsp;</span></div><div>\n</div><div>2.&nbsp;<span style=\"font-size: 1.5rem;\">Zapisy uczestników odbywają się drogą elektroniczną. Zapisu należy dokonać w zakładce <i>Zapisy.&nbsp;</i>Termin zapisów od 14.05.2018r. do 29.06.2018r.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>3. Udział w wydarzeniu może brać maksymalnie 32 uczestników. W przypadku mniejszego zainteresowania brakująca liczba uczestników zostanie uzupełniona wirtualnymi graczami na poziomie trudności&nbsp;<i>klasa światowa</i>. W przypadku większego zainteresowania obowiązuje kolejność zgłoszeń.</div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>4. Obowiązuje 20 zł wpisowego od każdego uczestnika na poczet organizacji przedsięwzięcia.</div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>\n</div><div>\n</div><div><b>§ 3. Rozgrywka</b></div><div><br></div><div>1.&nbsp;<span style=\"font-size: 1.5rem;\">Rozgrywki w grach komputerowych odbywają się na platformach przygotowanych i skonfigurowanych przez organizatora.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>2.&nbsp;<span style=\"font-size: 1.5rem;\">Jest dozwolone podłączenie własnych urządzeń wskazujących (pad), oraz słuchawek, ale tylko za wiedzą, zgodą oraz przy pomocy sędziego.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>3. \n<span style=\"font-size: 1.5rem;\">Zabronione jest&nbsp;</span><span style=\"font-size: 1.5rem;\">opuszczenie stanowiska przez gracza bez uzasadnionego powodu.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>4. Podczas trwania turnieju obowiązuje kultura osobista. Sędzia ma prawo w każdej chwili na dyskfalifikację zawodnika jeśli uzna jego zachowanie za niestosowne.</div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>5. Za zgodą sędziego w pomieszczeniu turniejowym mogą przebywać osoby postronne, tzw. widzowie.</div><div><br></div><div>\n</div><div>6. Przystąpienie<span style=\"font-size: 1.5rem;\">&nbsp;do turnieju jest równoznaczne z wyrażeniem zgody przez uczestnika na niniejszy regulamin oraz zasady rozrywek.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>\n</div><div>\n</div><div><b>§ 4. Regulamin rozgrywek Fifa 18 World Championship</b></div><div><br></div><div>\n</div><div>\n</div><div>1. Rozgrywki toczą się w systemie grupowym, a następnie pucharowym.</div><div>\n</div><div>2. W fazie grupowej, każdy gracz rozgrywa mecz z każdym ze swojej grupy. Za wygrany mecz gracz otrzymjuej 3 punkty, za remis 1 punkt, za przegraną 0 punktów. W przypadku takiej samej ilości punktów obowiązuje bilans bramkowy (zyskane/stracone bramki).</div><div><br></div><div>\n</div><div>3. W fazie pucharowej rozgrywane jest jedno spotkanie. Przegrana drużyna zostaje wyeliminowana, wygrana przechodzi dalej. W przypadku remisu, zostaje rozegrana dogrywka. Jeśli również to nie wyłoni zwycięzcy, obowiązuje konkurs rzutów karnych.</div><div><br></div><div>\n</div><div>4. \n<span style=\"font-size: 1.5rem;\">Wynik meczu jest zapisywany przez sędziego.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div><span style=\"font-size: 1.5rem;\">5. Na stronie internetowej wydarzenia będą prowadzone statystyki najlepszych strzelców oraz najlepszych obrońców.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>6. \n<span style=\"font-size: 1.5rem;\">Drużyna, która nie stawi się w określonych ramach czasowych przez organizatorów, poddaje walkower. Walkower można zgłaszać w razie braku kontaktu z przeciwnikiem (do 10 minut po ustalonej godzinie meczu).</span></div><div><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div><b>§ 5. Regulacje końcowe</b></div><div><br></div><div>\n</div><div>\n</div><div>1. \n<span style=\"font-size: 1.5rem;\">Wszelkie kwestie nieujęte w niniejszym Regulaminie rozstrzyga organizator.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>2. \n<span style=\"font-size: 1.5rem;\">Uczestnicy zobowiązani są do przestrzegania postanowień Regulaminu oraz poleceń organizatora.&nbsp;</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>3. \n<span style=\"font-size: 1.5rem;\">Uczestnicy są zobowiązani są do zachowywania zgodnego z zasadami Fair Play. Za niedopuszczalne uznaje się nieprzyzwoite gesty, akty agresji oraz wandalizmu. Kategorycznie zabrania się palenia, spożywania napojów alkoholowych oraz innych substancji psychoaktywnych na terenie poradni.</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>4. \n<span style=\"font-size: 1.5rem;\">Organizator zastrzega sobie prawo do zdyskwalifikowania uczestników postępujących niezgodnie z powyższymi zasadami.</span></div><div><span style=\"font-size: 1.5rem;\">&nbsp;</span></div><div>\n</div><div>5. \n<span style=\"font-size: 1.5rem;\">Organizator może wprowadzić zmiany do niniejszego Regulaminu także w trakcie Turnieju.</span></div><div><span style=\"font-size: 1.5rem;\">&nbsp;</span></div><div>\n</div><div>6. \n<span style=\"font-size: 1.5rem;\">Regulamin obowiązuje od dnia ogłoszenia, tj. od dnia 13.05.2018r.</span></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-57",
+          "_isUserblock": true,
+          "_cid": "qRRgZQxEKv",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-5c"
+          "_params": {}
         },
         {
           "_styles": {
