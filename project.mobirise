@@ -46,7 +46,9 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/USER/Documents/GitHub/WTF"
   },
   "pages": {
     "index.html": {
